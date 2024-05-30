@@ -16,7 +16,7 @@ This game is run on the **console only**.
 
 # Images of the Games
 <!-- ![image]() -->
-<img src="[https://cloud.githubusercontent.com/assets/yourgif.gif](https://github.com/Kushanava-Ghosh/Tic-Tac-Toe/assets/134191735/2d123d0c-fed1-4420-a11a-07c8b4c941ef)" width="100">
+<img src="[https://cloud.githubusercontent.com/assets/yourgif.gif](https://github.com/Kushanava-Ghosh/Tic-Tac-Toe/assets/134191735/2d123d0c-fed1-4420-a11a-07c8b4c941ef)" width="400" height="790">
 --- Home Screen ---
 
 ![image](https://github.com/Kushanava-Ghosh/Tic-Tac-Toe/assets/134191735/36af3085-9ce0-4015-a654-132f1fd61a48 | width=100)
