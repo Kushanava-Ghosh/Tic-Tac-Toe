@@ -26,8 +26,8 @@ This game is run on the **console only**.
 
 ![image](https://github.com/Kushanava-Ghosh/Tic-Tac-Toe/assets/134191735/dc5e3bfd-69be-40c9-984b-cc79b4d7dc61)
 --- Score Analysis Screen ---
-
-## Do download the Tic-Tac-Toe_Adv.exe and give it a play :+1:.
+> [!TIP]
+> ## Do download the Tic-Tac-Toe_Adv.exe and give it a play :+1:.
 > [!IMPORTANT]
 > ## Some Important Instructions
 > 1. The .exe file is completely safe to download. If Windows Firewall blocks, go to Advanced Settings and click on "Run Anyway".
