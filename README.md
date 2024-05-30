@@ -28,6 +28,6 @@ This game is run on the **console only**.
 --- Score Analysis Screen ---
 
 ## Do download the Tic-Tac-Toe_Adv.exe and give it a play :+1:.
-## Some Important Instructions
-1. The .exe file is completely safe to download. If Windows Firewall blocks, go to Advanced Settings and click on "Run Anyway".
-2. Before Playing Do enclose it in a folder because it involves some file handling operations which might hamper your other files if not enclosed inside a folder
+> [!Some Important Instructions]
+> The .exe file is completely safe to download. If Windows Firewall blocks, go to Advanced Settings and click on "Run Anyway".
+>  Before Playing Do enclose it in a folder because it involves some file handling operations which might hamper your other files if not enclosed inside a folder
