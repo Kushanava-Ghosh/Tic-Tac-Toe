@@ -9,9 +9,9 @@ This game is run on the **console only**.
 1. Game has two modes : ***vs Computer*** and ***vs Friend***.
 2. In vs Computer mode : There are 3 levels namely **Easy**, **Medium**, **Hard** Levels.
 3. In Hard Level : I have implemented ***MINIMAX ALGORITHM*** which returns the ***most optimal move*** given a certain game state.
-4. The game has ***predefined SCORE systems*** for each playable modes.
-5. This game has a feature of an ***USER-AUTHENTICATION PORTAL*** which enables users to register and login through their accounts to play the game. They can even ***Manage their Accounts***. (ONLY AVAILABLE IN "vs COMPUTER MODE").
-6. This game has a ***local database*** which stores the ***User Credentials*** pertaining to ***different accounts*** and their respective ***Play History*** in a seperate database.
+4. The game has ***predefined Score Criteria*** for each playable modes.
+5. This game has a feature of an ***User-Authentication Portal*** which enables users to register and login through their accounts to play the game. They can even ***Manage their Accounts***. (ONLY AVAILABLE IN "vs COMPUTER MODE").
+6. This game has a ***Local Database*** which stores the ***User Credentials*** pertaining to ***different accounts*** and their respective ***Play History*** in a seperate database.
 7. Users can view their stats of previously played matches corresponding to certain account.
 
 # Images of the Games
