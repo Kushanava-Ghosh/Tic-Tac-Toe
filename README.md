@@ -15,7 +15,7 @@ This game is run on the **console only**.
 7. Users can view their stats of previously played matches corresponding to certain account.
 
 # Images of the Games
-![image](https://github.com/Kushanava-Ghosh/Tic-Tac-Toe/assets/134191735/2d123d0c-fed1-4420-a11a-07c8b4c941ef = 250x250)
+![image](https://github.com/Kushanava-Ghosh/Tic-Tac-Toe/assets/134191735/2d123d0c-fed1-4420-a11a-07c8b4c941ef)
 --- **Home Screen** ---
 
 ![image](https://github.com/Kushanava-Ghosh/Tic-Tac-Toe/assets/134191735/36af3085-9ce0-4015-a654-132f1fd61a48)
