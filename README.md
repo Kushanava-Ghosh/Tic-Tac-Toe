@@ -15,11 +15,11 @@ This game is run on the **console only**.
 7. Users can view their stats of previously played matches corresponding to certain account.
 
 # Images of the Games
-| **Home Screen** | **User Authentication Portal Screen** |
 | ![Home Screen](https://github.com/Kushanava-Ghosh/Tic-Tac-Toe/assets/134191735/2d123d0c-fed1-4420-a11a-07c8b4c941ef) | ![User Authentication Portal Screen](https://github.com/Kushanava-Ghosh/Tic-Tac-Toe/assets/134191735/36af3085-9ce0-4015-a654-132f1fd61a48) |
-| ------------------------------------------------------------ | -----------------------------------------------------------------------------------------------------------|
-| **Play Screen** | **Score Analysis Screen** |
+| ------------------------------------------------------------ | ------------------------------------------------------------ |
+| **Home Screen** | **User Authentication Portal Screen** |
 | ![Play Screen](https://github.com/Kushanava-Ghosh/Tic-Tac-Toe/assets/134191735/9fea4b48-0821-43db-a19c-8bf249b402b8) | ![Score Analysis Screen](https://github.com/Kushanava-Ghosh/Tic-Tac-Toe/assets/134191735/dc5e3bfd-69be-40c9-984b-cc79b4d7dc61) |
+| **Play Screen** | **Score Analysis Screen** |
 > [!TIP]
 > ## Do download the Tic-Tac-Toe_Adv.exe and give it a play :+1:.
 
