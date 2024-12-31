@@ -17,9 +17,9 @@ This game is run on the **console only**.
 # Images of the Games
 | ![Home Screen](https://github.com/Kushanava-Ghosh/Tic-Tac-Toe/assets/134191735/2d123d0c-fed1-4420-a11a-07c8b4c941ef) | ![User Authentication Portal Screen](https://github.com/Kushanava-Ghosh/Tic-Tac-Toe/assets/134191735/36af3085-9ce0-4015-a654-132f1fd61a48) |
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
-| **Home Screen** | **User Authentication Portal Screen** |
+| <p align="center">**Home Screen**</p> | <p align="center">**User Authentication Portal Screen**</p> |
 | ![Play Screen](https://github.com/Kushanava-Ghosh/Tic-Tac-Toe/assets/134191735/9fea4b48-0821-43db-a19c-8bf249b402b8) | ![Score Analysis Screen](https://github.com/Kushanava-Ghosh/Tic-Tac-Toe/assets/134191735/dc5e3bfd-69be-40c9-984b-cc79b4d7dc61) |
-| **Play Screen** | **Score Analysis Screen** |
+| <p align="center">**Play Screen**</p> | <p align="center">**Score Analysis Screen**</p> |
 > [!TIP]
 > ## Do download the Tic-Tac-Toe_Adv.exe and give it a play :+1:.
 
